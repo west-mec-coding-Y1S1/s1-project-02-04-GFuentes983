@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+html {
+    font-family: 'Arial', Helvetica, sans-serif;
+    font-family: 'Montserrat' ;   
+}
+
+
+
+nav {
+    background-color: rgb(80, 80, 80);
+    padding: 13px;
+}
+
+nav, a {
+    color: rgb(0, 230, 0);
+    font-style: normal; 
+    text-align: center 
+}
+
+a {
+font-size: 25px;
+color: white;
+transition: .2s;
+text-decoration: none;
+}
+
+a:hover {
+    font-size: 25px;
+    color: red;
+}
+
+
+
+    
